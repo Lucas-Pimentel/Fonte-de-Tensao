@@ -2,7 +2,7 @@
 
 
 ### Descrição: 
-Projeto da disciplina de Eletrônica para Computação - SSC0180 2020. Teste
+Projeto da disciplina de Eletrônica para Computação - SSC0180 2020.
 
 Fonte de Tensão regulável: 127V AC para 3-12V DC. 
 
