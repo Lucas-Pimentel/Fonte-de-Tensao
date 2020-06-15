@@ -30,7 +30,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
   \*Preços retirados de [Baú da Eletrônica](https://www.baudaeletronica.com.br/?gclid=EAIaIQobChMIxuPE1v6D6gIVl4aRCh1Mmwj7EAAYASAAEgI8n_D_BwE)
 
 
-### Explicando cada componente
+
 
 | Componente | Detalhes | 
 |:---|---|
