@@ -1,6 +1,7 @@
-# Fonte de Tensão: 127V AC para 12V DC
+# Fonte de Tensão
 ### Descrição: 
 Projeto da disciplina de Eletrônica para Computação - SSC0180 2020.
+Fonte de Tensão regulável: 127 AC para 3v-12v DC
 
 
 ## Diagrama do circuito
@@ -8,7 +9,7 @@ Projeto da disciplina de Eletrônica para Computação - SSC0180 2020.
 ![](diagrama.png)
 
 - Link do circuito no Falstad: http://tinyurl.com/yd9kuhjk
-
+- Video explicativo: "link"
 
 ## Componentes
 
