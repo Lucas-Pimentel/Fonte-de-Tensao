@@ -35,7 +35,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 ### Explicando cada componente
 
 | Componente | Função | 
-|------------|------------------------------------------------------|
+|:---|:---:|
 | Transformador | Reduz a tensão de 127V para 24V |
 | 4x Diodo | A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC |
 | Capacitor Eletrolítico | Armazena energia elétrica para suprir o circuito |
@@ -49,5 +49,5 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 
 ## Participantes
-- João Pedro Gavassa Favoretti
-- Lucas Pilla Pimentel
+- João Pedro Gavassa Favoretti @
+- Lucas Pilla Pimentel @Lucas-Pimentel
