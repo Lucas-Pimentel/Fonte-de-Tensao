@@ -39,7 +39,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | Capacitor Eletrolítico | **Justificativa:** Com base em uma tensão de 24V, foi utilizado um capacitor de 470uF cuja maxíma tensão suportada é 35V. </br> **Função:** Suprir o circuito com energia elétrica e reduzir a oscilação da tensão e corrente |
 | Diodo Zener | **Justificativa:** Como a tensão máxima desejada é 12V e a tensão base-emissor do transistor é 0.7V, foi utilizado um Diodo Zener de 13V </br> **Função:** Limitar a tensão a 13V no máximo |
 | Transistor | **Justificativa:**  </br> **Função:** Regular a tensão e corrente |
-| Potenciômetro | **Justificativa:**  </br> **Função:** Permite alternar a tensão de 3 a 12V |
+| Potenciômetro | **Justificativa e Função:** O potenciômetro de 5000Ω  é suficiente para alternar a tensão de 3 a 12V |
 | Resistor 1200Ω | **Justificativa:** O valor da resistência foi escolhida de modo que a potência do Diodo Zener seja inferior a 1W e a tesão superior a 13V </br> **Função:** Limitar a corrente para o Diodo Zener |
 | Resistor 2200Ω | **Justificatica e Função:** Limitar a corrente de modo que a tensão final seja no mínimo 3V |
 - Video explicativo: 
