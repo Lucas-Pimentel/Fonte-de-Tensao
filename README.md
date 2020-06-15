@@ -31,7 +31,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 
 
-## Explicando cada componente
+### Explicando cada componente
 
 - Transformador:
 
