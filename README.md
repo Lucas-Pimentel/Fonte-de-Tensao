@@ -31,7 +31,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
   \*Preços retirados de [Baú da Eletrônica](https://www.baudaeletronica.com.br/?gclid=EAIaIQobChMIxuPE1v6D6gIVl4aRCh1Mmwj7EAAYASAAEgI8n_D_BwE)
 
 
-
+## Detalhes
 
 | Componente | Detalhes | 
 |:---|---|
@@ -39,7 +39,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | 4x Diodo | **Justificativa e Função:** A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC |
 | Capacitor Eletrolítico | **Justificativa:** Com base em uma tensão de 24V, foi utilizado um capacitor de 470uF cuja maxíma tensão suportada é 35V. </br> **Função:** Suprir o circuito com energia elétrica e reduzir a oscilação da tensão e corrente |
 | Diodo Zener | **Justificativa:** Como a tensão máxima desejada é 12V e a tensão base-emissor do transistor é 0.7V, foi utilizado um Diodo Zener de 13V </br> **Função:** Limitar a tensão a 13V no máximo |
-| Transistor | **Justificativa:** Foi escolhido um trasistor que suporte uma corrente máximo no coletor de 500mA e uma tensão máxima de 45V </br> **Função:** Regular a tensão e corrente |
+| Transistor | **Justificativa:** Foi escolhido um trasistor que suporte uma corrente máxima no coletor de 500mA e uma tensão máxima de 45V </br> **Função:** Regular a tensão e corrente |
 | Potenciômetro | **Justificativa e Função:** O potenciômetro de 5000Ω  é suficiente para alternar a tensão de 3 a 12V |
 | Resistor 1200Ω | **Justificativa:** O valor da resistência foi escolhida de modo que a potência do Diodo Zener seja inferior a 1W e a tesão superior a 13V </br> **Função:** Limitar a corrente para o Diodo Zener |
 | Resistor 2200Ω | **Justificatica e Função:** Limitar a corrente de modo que a tensão final seja no mínimo 3V |
