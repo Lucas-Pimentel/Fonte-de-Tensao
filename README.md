@@ -34,21 +34,14 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 ### Explicando cada componente
 
-- Transformador: Reduz a tensão de 127V para 24V.
-
-- 4x Diodo: A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC.
-
-- Capacitor Eletrolítico: Armazena energia elétrica para suprir o circuito.
-
-- Diodo Zener: Limitar a tensão a 13V no máximo.
-
-- Transistor: Regular a tensão e corrente
-
-- Potenciômetro: Permite regular a tensão de 3 a 12V.
-
-- Resistor 1200Ω: Limitar a corrente para o Diodo Zener e Potenciômetro
-
-- Resistor 2200Ω: Limitar a corrente de modo que a tensão final seja no mínimo 3V.
+| Transformador | Reduz a tensão de 127V para 24V |
+| 4x Diodo | A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC |
+| Capacitor Eletrolítico | Armazena energia elétrica para suprir o circuito |
+| Diodo Zener | Limitar a tensão a 13V no máximo |
+| Transistor | Regular a tensão e corrente |
+| Potenciômetro | Permite alternar a tensão de 3 a 12V |
+| Resistor 1200Ω | Limitar a corrente para o Diodo Zener e Potenciômetro |
+| Resistor 2200Ω | Limitar a corrente de modo que a tensão final seja no mínimo 3V |
 
 
 
