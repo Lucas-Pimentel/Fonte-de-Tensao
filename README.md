@@ -12,10 +12,8 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 ![](diagrama.png)
 
-- Link do circuito no Falstad: `http://tinyurl.com/y97oylld`
-- Video explicativo: 
+- Link do circuito no Falstad: http://tinyurl.com/y97oylld
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
 ## Componentes
 
@@ -44,7 +42,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | Potenciômetro | Permite alternar a tensão de 3 a 12V |
 | Resistor 1200Ω | Limitar a corrente para o Diodo Zener e Potenciômetro |
 | Resistor 2200Ω | Limitar a corrente de modo que a tensão final seja no mínimo 3V |
-
+- Video explicativo: 
 
 
 
