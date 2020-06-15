@@ -3,7 +3,7 @@ Projeto da disciplina de Eletrônica para Computação - SSC0180 2020
 
 ## Diagrama do circuito
 
-
+![](diagrama.png)
 
 - Link do circuito no Falstad: http://tinyurl.com/yd9kuhjk
 
