@@ -49,5 +49,5 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 
 ## Participantes
-- João Pedro Gavassa Favoretti @
-- Lucas Pilla Pimentel @Lucas-Pimentel
+- João Pedro Gavassa Favoretti 
+- Lucas Pilla Pimentel 
