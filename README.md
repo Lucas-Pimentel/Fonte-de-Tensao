@@ -1,11 +1,13 @@
 # Fonte de Tensão
 Projeto da disciplina de Eletrônica para Computação - SSC0180 2020
 
+
 ## Diagrama do circuito
 
 ![](diagrama.png)
 
 - Link do circuito no Falstad: http://tinyurl.com/yd9kuhjk
+
 
 ## Componentes
 
@@ -19,3 +21,8 @@ Projeto da disciplina de Eletrônica para Computação - SSC0180 2020
 | [Potenciômetro Linear de 5K (5000Ω)](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) | R$ 1,09 |
 | [Resistor 2K2 5% (1/4W)](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html) | R$ 0,08 |
 | [Resistor 1K2 5% (1/4W)](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html) | R$ 0,08 |
+
+
+## Participantes
+- João Pedro Gavassa Favoretti
+- Lucas Pilla Pimentel
