@@ -32,16 +32,16 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 ### Explicando cada componente
 
-| Componente | Função | 
+| Componente | Detalhes | 
 |:---|:---:|
-| Transformador | Reduz a tensão de 127V para 24V |
-| 4x Diodo | A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC |
-| Capacitor Eletrolítico | Armazena energia elétrica para suprir o circuito |
-| Diodo Zener | Limitar a tensão a 13V no máximo |
-| Transistor | Regular a tensão e corrente |
-| Potenciômetro | Permite alternar a tensão de 3 a 12V |
-| Resistor 1200Ω | Limitar a corrente para o Diodo Zener e Potenciômetro |
-| Resistor 2200Ω | Limitar a corrente de modo que a tensão final seja no mínimo 3V |
+| Transformador | **Especificações:** Optou-se por trabalhar a partir de 24V, e como a corrente máxima desejada é 100mA , foi utilizado um transformador 110V-24V que suporta até 500mA no circuito secundário  **Função:** Reduz a tensão de 127V para 24V |
+| 4x Diodo | **Função:** A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC |
+| Capacitor Eletrolítico | **Especificações:** Com base em uma tensão de 24V, foi utilizado um capacitor de 470uF cuja maxíma tensão suportada é 35V. **Função:** Suprir o circuito com energia elétrica |
+| Diodo Zener | **Especificações:** Como a tensão máxima desejada é 12V e a tensão base-emissor do transistor é 0.7V, foi utilizado um Diodo Zener de 13V  **Função:** Limitar a tensão a 13V no máximo |
+| Transistor | **Especificações:**  **Função:** Regular a tensão e corrente |
+| Potenciômetro | **Especificações:**   **Função:** Permite alternar a tensão de 3 a 12V |
+| Resistor 1200Ω | **Especificações:**   **Função:** Limitar a corrente para o Diodo Zener e Potenciômetro |
+| Resistor 2200Ω | **Especificações:**   **Função:** Limitar a corrente de modo que a tensão final seja no mínimo 3V |
 - Video explicativo: 
 
 
