@@ -1,9 +1,11 @@
 # Fonte de Tensão
 
+
 ### Descrição: 
 Projeto da disciplina de Eletrônica para Computação - SSC0180 2020.
 
 Fonte de Tensão regulável: 127V AC para 3-12V DC. 
+
 
 
 ## Circuito
@@ -12,6 +14,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 - Link do circuito no Falstad: http://tinyurl.com/yd9kuhjk
 - Video explicativo: 
+
 
 
 ## Componentes
@@ -27,16 +30,33 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | [Resistores](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html) | 1200Ω e 2200Ω | 2x R$ 0,08 |
 
 
+
 ## Explicando cada componente
 
-- Transformador
-- Diodo
-- Capacitor Eletrolítico
-- Diodo Zener
-- Transistor
-- Potenciômetro
-- Resistor 1200Ω
-- Resistor 2200Ω
+- Transformador:
+Especificações:
+Função:
+- Diodo:
+Especificações:
+Função:
+- Capacitor Eletrolítico:
+Especificações:
+Função:
+- Diodo Zener:
+Especificações:
+Função:
+- Transistor:
+Especificações:
+Função:
+- Potenciômetro:
+Especificações:
+Função:
+- Resistor 1200Ω:
+Especificações:
+Função:
+- Resistor 2200Ω:
+Especificações:
+Função:
 
 
 
