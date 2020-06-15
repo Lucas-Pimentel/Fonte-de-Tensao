@@ -27,7 +27,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | [Resistores](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html) | 1200Ω e 2200Ω | 2x R$ 0,08 |
 
 
-## Componente a Componente
+## Explicando cada componente
 
 
 ## Participantes
