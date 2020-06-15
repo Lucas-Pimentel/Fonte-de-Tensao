@@ -16,7 +16,7 @@ Fonte de Tensão regulável: 127 AC para 3v-12v DC.
 ## Componentes
 
 | Nome | Especificações | Preço |
-|---|---|---:
+|---|:---:|---:
 | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-12v-12v-500ma-110-220vac.html) | 12V+12V 500mA - 110/220VAC | R$ 22,23 |
 | [Diodo](https://www.baudaeletronica.com.br/transistor-npn-bc337.html) | Modelo 1N4007 | R$ 0,11 |
 | [Capacitor Eletrolítico](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-35v.html) | 470uF / 35V | R$ 0,57 |
