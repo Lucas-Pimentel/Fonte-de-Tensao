@@ -33,9 +33,9 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 ### Explicando cada componente
 
 | Componente | Detalhes | 
-|:---|:---|
+|:---|---|
 | Transformador | **Justificativa:** Optou-se por trabalhar a partir de 24V, e como a corrente máxima desejada é 100mA , foi utilizado um transformador 110V-24V que suporta até 500mA no circuito secundário </br> **Função:** Reduz a tensão de 127V para 24V |
-| 4x Diodo | **Função:** A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC |
+| 4x Diodo | **Justificativa e Função:** A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC |
 | Capacitor Eletrolítico | **Justificativa:** Com base em uma tensão de 24V, foi utilizado um capacitor de 470uF cuja maxíma tensão suportada é 35V. </br> **Função:** Suprir o circuito com energia elétrica e reduzir a oscilação da tensão e corrente |
 | Diodo Zener | **Justificativa:** Como a tensão máxima desejada é 12V e a tensão base-emissor do transistor é 0.7V, foi utilizado um Diodo Zener de 13V </br> **Função:** Limitar a tensão a 13V no máximo |
 | Transistor | **Justificativa:**  </br> **Função:** Regular a tensão e corrente |
