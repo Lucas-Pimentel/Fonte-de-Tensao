@@ -3,7 +3,7 @@
 ### Descrição: 
 Projeto da disciplina de Eletrônica para Computação - SSC0180 2020.
 
-Fonte de Tensão regulável: 127 AC para 3v-12v DC. 
+Fonte de Tensão regulável: 127V AC para 3-12V DC. 
 
 
 ## Circuito
@@ -12,6 +12,7 @@ Fonte de Tensão regulável: 127 AC para 3v-12v DC.
 
 - Link do circuito no Falstad: http://tinyurl.com/yd9kuhjk
 - Video explicativo: 
+
 
 ## Componentes
 
@@ -24,7 +25,6 @@ Fonte de Tensão regulável: 127 AC para 3v-12v DC.
 | [Transistor](https://www.baudaeletronica.com.br/transistor-npn-bc337.html) | Modelo NPN BC337 | R$ 0,17 |
 | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) | 5000Ω | R$ 1,09 |
 | [Resistores](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html) | 1200Ω e 2200Ω | 2x R$ 0,08 |
-
 
 
 ## Participantes
