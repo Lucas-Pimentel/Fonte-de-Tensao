@@ -20,7 +20,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 | Nome | Especificações | Preço\* |
 |:---:|:---:|:---:|
-| [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html) | 110V AC para 24V | R$ 22,23 |
+| [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html) | 110V AC para 24V | R$ 36,00 |
 | [Diodo](https://www.baudaeletronica.com.br/diodo-1n4007.html) | Modelo 1N4007 | 4x R$ 0,11 |
 | [Capacitor Eletrolítico](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-35v.html) | 470uF / 35V | R$ 0,57 |
 | [Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) | Modelo 1N4743 13V / 1W | R$ 0,20 |
