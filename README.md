@@ -28,7 +28,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | [Transistor](https://www.baudaeletronica.com.br/transistor-npn-bc337.html) | Modelo NPN BC337 | R$ 0,17 |
 | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) | 5000Ω | R$ 1,09 |
 | [Resistores](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html) | 1200Ω e 2200Ω | 2x R$ 0,08 |
-
+| \*Preços retirados de [Baú da Eletrônica](https://www.baudaeletronica.com.br/?gclid=EAIaIQobChMIxuPE1v6D6gIVl4aRCh1Mmwj7EAAYASAAEgI8n_D_BwE)|
 
 
 ### Explicando cada componente
