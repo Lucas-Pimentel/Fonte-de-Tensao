@@ -15,7 +15,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 - Link do circuito no Falstad: http://tinyurl.com/y97oylld
 - Video explicativo: 
 
-![bg](#39ffaf)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 ## Componentes
 
