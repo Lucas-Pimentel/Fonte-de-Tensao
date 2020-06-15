@@ -29,6 +29,16 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 ## Explicando cada componente
 
+- Transformador
+- Diodo
+- Capacitor Eletrolítico
+- Diodo Zener
+- Transistor
+- Potenciômetro
+- Resistor 1200Ω
+- Resistor 2200Ω
+
+
 
 ## Participantes
 - João Pedro Gavassa Favoretti
