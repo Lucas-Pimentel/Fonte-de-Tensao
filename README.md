@@ -1,15 +1,16 @@
 # Fonte de Tensão: 127V AC para 12V DC
-Projeto da disciplina de Eletrônica para Computação - SSC0180 2020
+### Descrição: 
+Projeto da disciplina de Eletrônica para Computação - SSC0180 2020.
 
 
-### Diagrama do circuito
+## Diagrama do circuito
 
 ![](diagrama.png)
 
 - Link do circuito no Falstad: http://tinyurl.com/yd9kuhjk
 
 
-### Componentes
+## Componentes
 
 | Nome | Preço |
 |---|---:|
@@ -23,6 +24,6 @@ Projeto da disciplina de Eletrônica para Computação - SSC0180 2020
 | [Resistor 1K2 5% (1/4W)](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html) | R$ 0,08 |
 
 
-### Participantes
+## Participantes
 - João Pedro Gavassa Favoretti
 - Lucas Pilla Pimentel
