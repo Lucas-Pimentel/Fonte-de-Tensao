@@ -1,7 +1,8 @@
 # Fonte de Tensão
 
 
-### Descrição: 
+## Descrição: 
+
 Projeto da disciplina de Eletrônica para Computação - SSC0180 2020.
 
 Fonte de Tensão regulável: 127V AC para 3-12V DC. 
@@ -36,6 +37,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
   \*Preços retirados de [Baú da Eletrônica](https://www.baudaeletronica.com.br/?gclid=EAIaIQobChMIxuPE1v6D6gIVl4aRCh1Mmwj7EAAYASAAEgI8n_D_BwE)
   
 
+________________________________________________________________________________________________________________________________________
 
 
 | Componente | Detalhes | 
@@ -56,5 +58,6 @@ Observações para o circuito alternativo:
 
 
 ## Participantes
+
 - João Pedro Gavassa Favoretti 
 - Lucas Pilla Pimentel 
