@@ -13,7 +13,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 - Circuito Principal (Com transformador 110V para 24V)
 ![](diagrama.png)
 
-- Circuito Alternativo (Com transformador 110V- 24V + 24V - Center Tap))
+- Circuito Alternativo (Com transformador 110V para 24V + 24V - Center Tap))
 ![](diagrama2.png)
 
 - Link do circuito no Falstad: http://tinyurl.com/ydhgfdh5
@@ -50,8 +50,8 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | Resistor 2200Ω | **Justificatica e Função:** Limitar a corrente de modo que a tensão final seja no mínimo 3V |
 - ["Video explicativo"](https://drive.google.com/file/d/1MUFWJ5MjBETV0r0gCYgdCWF7eo0-wIJL/view?usp=sharing)
 
-Obs: -Para o circuito que utiliza transformador com Center Tap optamos pelo [transformador](https://www.usinainfo.com.br/trafos-transformadores/transformador-trafo-24v-24v-800ma-bivolt-uso-geral-3908.html) com tensão secundaria de 24V+24V
-     -São necessarios apenas 2 diodos para reitificar a onda completa.
+Obs: - Para o circuito que utiliza transformador com Center Tap optamos pelo [transformador](https://www.usinainfo.com.br/trafos-transformadores/transformador-trafo-24v-24v-800ma-bivolt-uso-geral-3908.html) com tensão secundaria de 24V+24V
+     - São necessarios apenas 2 diodos para reitificar a onda completa.
 
 
 ## Participantes
