@@ -11,8 +11,10 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 ## Circuito
 
 ![](diagrama.png)
+![](diagrama2.png)
 
 - Link do circuito no Falstad: http://tinyurl.com/ydhgfdh5
+- Link do circuito com Derivação Central: http://tinyurl.com/y7wnvry7
 
 
 
@@ -43,7 +45,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | Potenciômetro | **Justificativa e Função:** O potenciômetro de 5000Ω  é suficiente para alternar a tensão de 3 a 12V |
 | Resistor 1200Ω | **Justificativa:** O valor da resistência foi escolhida de modo que a potência do Diodo Zener seja inferior a 1W e a tesão superior a 13V </br> **Função:** Limitar a corrente para o Diodo Zener |
 | Resistor 2200Ω | **Justificatica e Função:** Limitar a corrente de modo que a tensão final seja no mínimo 3V |
-- Video explicativo: 
+- ["Video explicativo"](https://drive.google.com/file/d/1MUFWJ5MjBETV0r0gCYgdCWF7eo0-wIJL/view?usp=sharing)
 
 
 
