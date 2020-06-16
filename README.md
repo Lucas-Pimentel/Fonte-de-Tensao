@@ -10,15 +10,18 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 
 ## Circuito
 
+--> Com transformador 110V-24V
 ![](diagrama.png)
+
+--> Com transformador 110V- 24V + 24V (Center Tap)
 ![](diagrama2.png)
 
 - Link do circuito no Falstad: http://tinyurl.com/ydhgfdh5
-- Link do circuito com Derivação Central: http://tinyurl.com/y7wnvry7
+- Link do circuito utilizando Transformador com Derivação Central: http://tinyurl.com/y7wnvry7
 
 
 
-## Componentes
+## Componentes do primeiro circuito
 
 | Nome | Especificações | Preço\* |
 |:---:|:---:|:---:|
@@ -31,9 +34,9 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | [Resistores](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html) | 1200Ω e 2200Ω | 2x R$ 0,08 |
 
   \*Preços retirados de [Baú da Eletrônica](https://www.baudaeletronica.com.br/?gclid=EAIaIQobChMIxuPE1v6D6gIVl4aRCh1Mmwj7EAAYASAAEgI8n_D_BwE)
+  
 
 
-## Detalhes
 
 | Componente | Detalhes | 
 |:---|---|
@@ -47,7 +50,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 | Resistor 2200Ω | **Justificatica e Função:** Limitar a corrente de modo que a tensão final seja no mínimo 3V |
 - ["Video explicativo"](https://drive.google.com/file/d/1MUFWJ5MjBETV0r0gCYgdCWF7eo0-wIJL/view?usp=sharing)
 
-
+Obs: Para o circuito que utiliza transformador com Center Tap optamos pelo transformador 110V- 24V + 24V e são necessarios apenas 2 diodos para reitifica a onda completa.
 
 
 ## Participantes
