@@ -59,6 +59,10 @@ Observações para o circuito alternativo:
 - São necessarios apenas 2 diodos para reitificar a onda completa.
 
 
+## Projeto do Esquemático e do PCB no Eagle
+
+
+
 ## Participantes
 
 - João Pedro Gavassa Favoretti 
