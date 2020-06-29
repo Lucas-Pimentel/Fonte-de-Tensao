@@ -12,10 +12,10 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 ## Circuito
 
 - Circuito Principal (Com transformador 110V para 24V)
-![](diagrama.png)
+![](Imagens/diagrama.png)
 
 - Circuito Alternativo (Com transformador 110V para 24V + 24V - Center Tap)
-![](diagrama2.png)
+![](Imagens/diagrama2.png)
 
 - Link do circuito no Falstad: http://tinyurl.com/y9kvq46w
 - Link do circuito utilizando Transformador com Center Tap: http://tinyurl.com/y8nskoj6
@@ -63,7 +63,7 @@ Observações para o circuito alternativo:
 
 | Esquematico | PCB |
 |---|---|
-|![](Esquematico_eagle.png)|![](pcb_eagle.png)|
+|![](Imagens/Esquematico_eagle.png)|![](Imagens/pcb_eagle.png)|
 
 ## Participantes
 
