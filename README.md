@@ -65,7 +65,7 @@ Observações para o circuito alternativo:
 |---|---|
 |![](Imagens/Esquematico_eagle.png)|![](Imagens/pcb_eagle.png)|
 
-- [Download do projeto no Eagle](Eagle_files.zip)
+- [Download do projeto no Eagle](https://github.com/Lucas-Pimentel/Fonte-de-Tensao/raw/master/Eagle_files.zip)
 
 ## Participantes
 
