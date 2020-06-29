@@ -65,6 +65,8 @@ Observações para o circuito alternativo:
 |---|---|
 |![](Imagens/Esquematico_eagle.png)|![](Imagens/pcb_eagle.png)|
 
+- [Download do projeto no Eagle](Eagle_files.zip)
+
 ## Participantes
 
 - João Pedro Gavassa Favoretti 
