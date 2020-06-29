@@ -61,7 +61,7 @@ Observações para o circuito alternativo:
 
 ## Projeto do Esquemático e do PCB no Eagle
 
-
+![](Esquematico_eagle.png) ![](pcb_eagle.png)
 
 ## Participantes
 
