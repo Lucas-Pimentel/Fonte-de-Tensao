@@ -42,14 +42,14 @@ ________________________________________________________________________________
 
 | Componente | Detalhes | 
 |:---|---|
-| Transformador | **Justificativa:** Optou-se por trabalhar a partir de 24V, e como a corrente máxima desejada é 100mA , foi utilizado um transformador 110V-24V que suporta até 500mA no circuito secundário </br> **Função:** Reduz a tensão de 127V para 24V |
-| 4x Diodo | **Justificativa e Função:** A ponte de diodo foi utilizada a fim de aproveitar uma onde completa, auxiliando na conversão de AC para DC |
-| Capacitor Eletrolítico | **Justificativa:** Com base em uma tensão de 24V, foi utilizado um capacitor de 470uF cuja maxíma tensão suportada é 35V. </br> **Função:** Suprir o circuito com energia elétrica e reduzir a oscilação da tensão e corrente |
-| Diodo Zener | **Justificativa:** Como a tensão máxima desejada é 12V e a tensão base-emissor do transistor é 0.7V, foi utilizado um Diodo Zener de 13V </br> **Função:** Limitar a tensão a 13V no máximo |
-| Transistor | **Justificativa:** Foi escolhido um trasistor que suporte uma corrente máxima no coletor de 500mA e uma tensão máxima de 45V </br> **Função:** Regular a tensão e corrente |
-| Potenciômetro | **Justificativa e Função:** O potenciômetro de 5000Ω  é suficiente para alternar a tensão de 3 a 12V |
-| Resistor 1200Ω | **Justificativa:** O valor da resistência foi escolhida de modo que a potência do Diodo Zener seja inferior a 1W e a tesão superior a 13V </br> **Função:** Limitar a corrente para o Diodo Zener |
-| Resistor 2200Ω | **Justificatica e Função:** Limitar a corrente de modo que a tensão final seja no mínimo 3V |
+| Transformador | **Escolha:** Foi utilizado um transformador 110V-24V a fim de possibilitar uma boa margem para manipulação da tensão e atingir os 12V na saída. </br> **Função:** Reduz a tensão de 127V para 24V. |
+| 4x Diodo | **Escolha e Função:** A ponte de diodos permite reitificar a onde completa, auxiliando na conversão de AC para DC. |
+| Capacitor Eletrolítico | **Escolha:** Com base em uma tensão de 24V, proveniente do transformador, foi utilizado um capacitor de 470uF cuja maxíma tensão suportada é 35V. </br> **Função:** Suprir o circuito com energia elétrica durante a alternância de polaridade, reduzindo a oscilação da tensão e da corrente. |
+| Diodo Zener | **Escolha:** Como a tensão base-emissor do transistor é 0.7V, foi utilizado um Diodo Zener 13V para atingir uma tensão máxima na carga de, aproximadamente, 12V. </br> **Função:** Limitar a tensão ao máximo de 13V. |
+| Transistor | **Escolha e Função:** Mantem a tensão proveniente do potenciômetro, -0.7V da tensão base-emissor, e a corrente na carga é definida pelo produto da corrente na base com o hFE(beta) do transistor |
+| Potenciômetro | **Escolha e Função:** O potenciômetro de 5000Ω permite alternar a tensão entre 3 e 12V. |
+| Resistor 1200Ω | **Escolha:** O valor da resistência foi escolhida de modo que a potência do Diodo Zener seja inferior a 1W e a tesão superior a 13V. </br> **Função:** Limitar a corrente para o Diodo Zener. |
+| Resistor 2200Ω | **Escolha e Função:** Limitar a resistência no potenciômetro de modo que a tensão final seja no mínimo 3V. |
 - ["Video explicativo"](https://drive.google.com/file/d/1MUFWJ5MjBETV0r0gCYgdCWF7eo0-wIJL/view?usp=sharing)
 
 ________________________________________________________________________________________________________________________________________
