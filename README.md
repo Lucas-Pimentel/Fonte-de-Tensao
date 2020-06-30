@@ -7,7 +7,7 @@ Projeto da disciplina de Eletrônica para Computação - SSC0180 2020.
 
 Fonte de Tensão regulável: 127V AC para 3-12V DC. 
 
-
+</br>
 
 ## Circuito
 
@@ -20,7 +20,7 @@ Fonte de Tensão regulável: 127V AC para 3-12V DC.
 - Link do circuito no Falstad: http://tinyurl.com/y9kvq46w
 - Link do circuito utilizando Transformador com Center Tap: http://tinyurl.com/y8nskoj6
 
-
+</br>
 
 ## Componentes do circuito principal
 
@@ -58,6 +58,7 @@ ________________________________________________________________________________
   </br>\- Optamos pelo [transformador](https://www.usinainfo.com.br/trafos-transformadores/transformador-trafo-24v-24v-800ma-bivolt-uso-geral-3908.html) com tensão secundaria de 24V+24V.
   </br>\- São necessarios apenas 2 diodos para reitificar a onda completa.
 
+</br>
 
 ## Projeto do Esquemático e do PCB no Eagle
 
@@ -66,6 +67,8 @@ ________________________________________________________________________________
 |![](Imagens/Esquematico_eagle.png)|![](Imagens/pcb_eagle.png)|
 
 - [Download do projeto no Eagle](https://github.com/Lucas-Pimentel/Fonte-de-Tensao/raw/master/Eagle_files.zip)
+
+</br>
 
 ## Participantes
 
