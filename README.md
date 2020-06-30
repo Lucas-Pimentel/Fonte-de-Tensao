@@ -55,8 +55,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 - Observações para o circuito alternativo: 
-  \- Optamos pelo [transformador](https://www.usinainfo.com.br/trafos-transformadores/transformador-trafo-24v-24v-800ma-bivolt-uso-geral-3908.html) com tensão secundaria de 24V+24V.
-  \- São necessarios apenas 2 diodos para reitificar a onda completa.
+  <\br>\- Optamos pelo [transformador](https://www.usinainfo.com.br/trafos-transformadores/transformador-trafo-24v-24v-800ma-bivolt-uso-geral-3908.html) com tensão secundaria de 24V+24V.
+  <\br>\- São necessarios apenas 2 diodos para reitificar a onda completa.
 
 
 ## Projeto do Esquemático e do PCB no Eagle
